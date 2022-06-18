@@ -21,15 +21,7 @@ A private dataset containing the student details along with their handwritings w
 
 A web application had been designed and created for authentication, uploading files, identification and text extraction.
 
-**TEAM MEMBERS:**
 
-1.Keerthy E J(8)
-
-2.Mary Alice(18)
-
-3.Nima Moideen(37)
-
-4.Salma Sabir(50)
 
 
 
