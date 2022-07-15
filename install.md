@@ -33,7 +33,7 @@ pdftoimage
 
 3. Clone the project
 
-    git clone https://gitlab.com/alicemary668/2020_CSB2_WRITERIDENTIFICATION.git
+    git clone https://gitlab.com/zoypk/Classroom.git
 
 4. Run the file app.py to execute the flask app
 
